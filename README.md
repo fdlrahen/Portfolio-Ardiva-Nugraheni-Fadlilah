@@ -1,6 +1,6 @@
 # 🧠 Data Science & Machine Learning Portfolio
 
-Welcome! This repository showcases a diverse collection of my applied machine learning and data science projects, covering NLP, time-series forecasting, classification, and semantic search. Each folder contains its own source code, README, and output visualizations.
+Welcome! This repository showcases a diverse collection of my learning and data projects. Each folder contains its own source code, README, and output visualizations.
 
 ## 🔍 Projects
 
